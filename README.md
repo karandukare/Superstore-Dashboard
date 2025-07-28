@@ -45,7 +45,7 @@ This dashboard delivers powerful business intelligence insights, helping stakeho
 
 ## 📸 Dashboard Preview
 
-![Superstore Power BI Dashboard](./Screenshot%202025-07-26%20193032.png)
+![Superstore Power BI Dashboard][(./Screenshot%202025-07-26%20193032.png)](https://github.com/karandukare/Superstore-Dashboard/blob/main/Superstore.png)
 
 ---
 
