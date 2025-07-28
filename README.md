@@ -45,7 +45,8 @@ This dashboard delivers powerful business intelligence insights, helping stakeho
 
 ## 📸 Dashboard Preview
 
-Superstore.png
+https://github.com/karandukare/Superstore-Dashboard/blob/main/Superstore.png
+
 ---
 
 ## 📊 Sample Insights
