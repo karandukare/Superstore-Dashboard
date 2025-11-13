@@ -1,17 +1,17 @@
-# 📦 Superstore Sales Analytics Dashboard
+**Superstore Sales Analytics Dashboard**
 
 This project presents an interactive **Power BI Dashboard** and Python-based **Exploratory Data Analysis (EDA)** on a Superstore dataset. It reveals key sales trends, profit margins, product category performance, and customer insights across regions.
 
 ---
 
-## 📌 Project Overview
+**Project Overview**
 
 Superstore is a fictional retail chain that operates across the US. The dataset contains sales, profits, discounts, and shipping information over several years.
 This dashboard delivers powerful business intelligence insights, helping stakeholders make data-driven decisions.
 
 ---
 
-## ⚙️ Tech Stack
+**Tech Stack**
 
 - **Power BI** – Dashboard creation, slicers, KPIs, dynamic visuals
 - **DAX (Data Analysis Expressions)** – Custom measures for profit margin, sales, etc.
@@ -21,19 +21,19 @@ This dashboard delivers powerful business intelligence insights, helping stakeho
 
 ---
 
-## 📊 Features & Insights
+## Features & Insights
 
-- 📈 **Dynamic KPIs**: Total Sales, Profit, Discount, and Profit Margin
-- 📊 **Category Breakdown**: Sub-category level insights on sales and profitability
-- 🌎 **Geo-Map Visualization**: Sales distribution across US states
-- 📋 **Customer Insights**: Top customers by sales and profit
-- 📅 **Time-Based Filters**: Slicer for date ranges and shipping modes
-- 📦 **Product Analysis**: Category-wise breakdown by region
-- 🎯 **Interactive Filters**: City, Region, Ship Mode, Segment filters
+- **Dynamic KPIs**: Total Sales, Profit, Discount, and Profit Margin
+- **Category Breakdown**: Sub-category level insights on sales and profitability
+- **Geo-Map Visualization**: Sales distribution across US states
+- **Customer Insights**: Top customers by sales and profit
+- **Time-Based Filters**: Slicer for date ranges and shipping modes
+- **Product Analysis**: Category-wise breakdown by region
+- **Interactive Filters**: City, Region, Ship Mode, Segment filters
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -43,13 +43,13 @@ This dashboard delivers powerful business intelligence insights, helping stakeho
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 https://github.com/karandukare/Superstore-Dashboard/blob/main/Superstore.png
 
 ---
 
-## 📊 Sample Insights
+##  Sample Insights
 
 - Phones and Chairs generate the highest sales but not always the highest profit.
 - Technology category is the most profitable.
@@ -58,7 +58,7 @@ https://github.com/karandukare/Superstore-Dashboard/blob/main/Superstore.png
 
 ---
 
-📩 Connect with Me 
+**Connect with Me** 
 
-📧 karandukare23@gmail.com 
-🔗 LinkedIn – Karan Dukare
+karandukare23@gmail.com 
+LinkedIn – Karan Dukare
